@@ -13,7 +13,7 @@ h1,h2,h3,h4,h5{
 }
 
 .cover{
-    height: 400px;
+    height: 300px;
     color: #ffffff;
     background-image: url(../img/cover-img.jpg);
     background-size: cover;
@@ -38,5 +38,11 @@ h1,h2,h3,h4,h5{
 }
 
 .card-text{
-    min-height: 7rem;
+    min-height: 10rem;
+    text-align:center;
+}
+
+.footer{
+    height: 30px;
+    text-align: center;
 }
