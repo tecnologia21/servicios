@@ -12,6 +12,10 @@ h1,h2,h3,h4,h5{
     font-family: 'Fjalla One', sans-serif;
 }
 
+p{
+    text-align: center;
+}
+
 .cover{
     height: 300px;
     color: #ffffff;
